@@ -34,7 +34,7 @@
    - Using tools like Jira and Trello for task and bug tracking.
 
 5. Automation Testing (Beginner Level):
-   - Writing basic test scripts using Selenium and JavaScript.
+   - Writing basic test scripts using Selenium,JavaScript,Playwright and Appium.
    - Understanding test automation frameworks and best practices.
 
 6. Testing AI-Driven Systems:
