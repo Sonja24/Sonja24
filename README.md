@@ -4,7 +4,7 @@
   - Writing test cases and bug reports.
   - Testing web applications using tools like Postman, Jira, and Trello.
   - Basic HTML, CSS, and JavaScript knowledge.
-  - Basic knowledge in using of Visual Studio Code, MySQL Workbench and Docker
+  - Basic knowledge in using of Visual Studio Code, MySQL Workbench, Postman and Docker
 - Currently expanding my skill set in:
   - Front end Automation Testing: Learning Selenium, Appium, Playwright, and JavaScript for frontend testing.
 - Multilingual communicator, fluent in Macedonian, Bulgarian, Serbian, Croatian, English, and basic Russian, Italian, and Chinese.
